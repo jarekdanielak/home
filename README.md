@@ -1,1 +1,5 @@
-[Home](https://jarekdanielak.github.io/home/)
+Peak design, monospaced landing page.
+
+[Check it out](https://jarekdanielak.github.io/home/)
+
+👋
