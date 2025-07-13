@@ -1,14 +1,13 @@
+html,
 body {
   background: #f0f6fc;
   font-family: monospace;
   font-size: 16px;
 }
 
-::selection {
-  background: #f4bc4488;
-}
-
 @media (prefers-color-scheme: dark) {
+
+  html,
   body {
     background: #0d1116;
     color: #f0f6fc;
